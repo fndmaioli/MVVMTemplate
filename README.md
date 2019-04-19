@@ -20,3 +20,12 @@ Contents⁩ ▸ ⁨Developer⁩ ▸ ⁨Library⁩ ▸ ⁨Xcode⁩ ▸ ⁨Templat
 If you have never used custom template, you can simply paste the "Custom" folder in here and you're set to go. If you already uses custom templates, you can place the templates inside "Custom" or the folder itself where you prefer.
 
 Now, when you create a new project on Xcode, the MVVM template will appear among your choices.
+
+## Creating your own template
+
+Creating a template can be a little tricky because of the lack of documentation, but it's not that hard when using Xcode base templates to create your own. These links helped me a lot when i made this MVVM template:
+
+https://www.lordcodes.com/posts/create-xcode-file-templates
+https://useyourloaf.com/blog/creating-custom-xcode-project-templates/
+https://www.telerik.com/blogs/how-to-create-custom-project-templates-in-xcode-7
+https://www.hackingwithswift.com/articles/158/how-to-create-a-custom-xcode-template-for-coordinators
