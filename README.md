@@ -1,2 +1,2 @@
 # MVVMTemplate
-A custom template for Xcode, it creates the basic MVVM architecture for the project.
+By using this template you can create your project with the basic structure for the MVVM (Model-View-ViewModel) architecture. It's pretty normal for the ViewController, in the MVC architecture, to have the majority of the code and make the project less modularized, by using the ViewModel to comunicate between the View and the Model it gets a lot easier to divide and understand waht's happening, In this architecture the Model has the same function as in the MVC (Model-View-Controller).
