@@ -3,6 +3,8 @@ By using this template you can create your project with the basic structure for 
 
 The Model has the same function as in the MVC. The View implements the UIViewController, but never talks or see what's in the Model, the ViewModel stays in the middle of this conversation.
 
+In this template I also put some really crude and basic classes that perform a Hello World using the MVVM structure.
+
 ## How to install
 
 To install this template you'll simply clone this project:
