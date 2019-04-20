@@ -13,7 +13,7 @@ To install this template you'll simply clone this project:
 $ git clone https://github.com/fndmaioli/MVVMTemplate.git
 ```
 
-Copy the "Custom" folder from the cloned repository. Now you'll have to navigate to XCode's templates folder, first go to the applications folder and select "Show Package Contents" Right Clicking on Xcode. Then navigate to this folder:
+Copy the "Custom" folder from the cloned repository. Now you'll have to navigate to XCode's templates folder, first go to the Applications folder (you can probably find it on the options on the left in the finder), Right Click on Xcode and select "Show package contents". Then navigate to this folder:
 
 ```
 Contents⁩ ▸ ⁨Developer⁩ ▸ ⁨Library⁩ ▸ ⁨Xcode⁩ ▸ ⁨Templates⁩ ▸ Project Templates
