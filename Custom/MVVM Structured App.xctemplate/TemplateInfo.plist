@@ -18,11 +18,11 @@
 	<key>SortOrder</key>
 	<integer>1</integer>
 	<key>Nodes</key>
-		<array>
-			<string>RootView.swift</string>
-			<string>RootViewModel.swift</string>
-			<string>Something.swift</string>
-		</array>
+	<array>
+		<string>RootView.swift</string>
+		<string>RootViewModel.swift</string>
+		<string>HelloWorldExample.swift</string>
+	</array>
 	<key>Definitions</key>
 	<dict>
 		<key>Base.lproj/Main.storyboard</key>
@@ -58,14 +58,14 @@
 			<key>SortOrder</key>
 			<integer>99</integer>
 		</dict>
-		<key>Something.swift</key>
+		<key>HelloWorldExample.swift</key>
 		<dict>
 			<key>Group</key>
 			<array>
 				<string>Model</string>
 			</array>
 			<key>Path</key>
-			<string>Something.swift</string>
+			<string>HelloWorldExample.swift</string>
 			<key>SortOrder</key>
 			<integer>99</integer>
 		</dict>

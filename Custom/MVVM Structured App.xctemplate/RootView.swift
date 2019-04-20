@@ -9,13 +9,13 @@ import UIKit
 
 class RootView: UIViewController {
     
-    var thing = RootViewModel(name: "World")
+    var hello = RootViewModel()
     
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         
-        print("Hello " + thing.getThingName())
+        print("Hello " + hello.getHelloName())
     }
     
 }

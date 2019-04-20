@@ -9,15 +9,15 @@ import UIKit
 
 class RootViewModel {
     
-    private var something: Something?
+    private var helloMVVM: HelloWorldExample?
     
-    init(name: String){
-        something = Something(name: name)
+    init(){
+        helloMVVM = HelloWorldExample(name: "World")
     }
     
-    func getThingName() -> String {
-        guard let something = something else { return "" }
-        return something.name
+    func getHelloName() -> String {
+        guard let helloMVVM = helloMVVM else { return "" }
+        return helloMVVM.name
     }
     
     

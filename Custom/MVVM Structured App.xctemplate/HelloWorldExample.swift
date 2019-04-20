@@ -7,6 +7,6 @@
 
 import Foundation
 
-public struct Something {
+public struct HelloWorldExample {
     public let name: String
 }
